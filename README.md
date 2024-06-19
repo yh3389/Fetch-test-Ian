@@ -1,4 +1,7 @@
-﻿# Data Modeling for E-trade System
+
+ # Data Modeling for E-trade System
+![Schema](https://github.com/yh3389/Fetch-test-Ian/assets/143014699/c4be36d8-1d02-4234-b449-54b05e4f075d)
+![ER-Diagram](https://github.com/yh3389/Fetch-test-Ian/assets/143014699/9cf5a504-cd12-4a2d-b55a-47e25acb4664)
 
 ## Part One: Contents of Each Table
 
