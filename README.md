@@ -87,3 +87,9 @@ Each brand should include a unique logo identifier, barcode, emblem code, class,
 
 ### Cogs
 Each cog ought to have a completely unique identifier, reference attribute, and oid characteristic. This desk enables in categorizing and organizing manufacturers into logical organizations, ensuring that every logo is part of a broader class or product organization.
+
+_
+Footnote:
+1. **Derived Attributes**: Represented with a dashed border.
+2. **Optional Attributes**: Indicated with "(O)" next to the attribute name.
+3. **Primary Key Attributes**: Underlined to denote primary keys._
